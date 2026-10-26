@@ -1,0 +1,3 @@
+Place the approved dataset here as: raw_market_data.csv   (do NOT edit it; the notebook records its SHA-256).
+Expected layout: Date + one price column per asset and benchmark (column names = the tickers in the notebook config).
+Different layout? See the TODO(PROMPT) in src/finance_tools.py. Delete this note file before zipping if you like.
